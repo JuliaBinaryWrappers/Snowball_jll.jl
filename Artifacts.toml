@@ -1,0 +1,113 @@
+[[Snowball]]
+arch = "aarch64"
+git-tree-sha1 = "9b2ede2f00edb2179de06f0b42afbf78ad5e5e7c"
+libc = "musl"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "fe6aa2921262cefe7341defe9d5b1b120c3fef92d3aa7e7710144bb011d6cc6e"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.aarch64-linux-musl.tar.gz"
+[[Snowball]]
+arch = "i686"
+git-tree-sha1 = "3dcb594081dc257122d24abd0a612b768beddfe3"
+os = "windows"
+
+    [[Snowball.download]]
+    sha256 = "b4fd38fada1d372d9d72a7fd57a781c708ad59b63ab44d675e2d03b2f6549234"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.i686-w64-mingw32.tar.gz"
+[[Snowball]]
+arch = "x86_64"
+git-tree-sha1 = "503c0d9e0c2d409f9ed7d9e4609ad1f72862793f"
+libc = "musl"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "c03bcb679eccdbb76ccc9b9186ca679eba5c918d17aac046edce751baed10845"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.x86_64-linux-musl.tar.gz"
+[[Snowball]]
+arch = "i686"
+git-tree-sha1 = "f71e7333c697e0408265da02fadafd32fe966427"
+libc = "glibc"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "9bf8af440a1d6f895ccf8af0228e46f8b1f11541865c35ffb0d6a16b884129de"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.i686-linux-gnu.tar.gz"
+[[Snowball]]
+arch = "armv7l"
+git-tree-sha1 = "188e659fc825318121f60d768372aa859920039f"
+libc = "glibc"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "44b9286da905d4efdfe25c6dd2fbe0e9cdfff1e48f17b1078c8c124b4b818581"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[Snowball]]
+arch = "aarch64"
+git-tree-sha1 = "c627a71d61c1e76046a3027ab64f3bdbd9214809"
+libc = "glibc"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "f214b210e5831ac19f4bcecddfd15df4e6ebb464a5bcadebe4b3db1fcfdd08c7"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.aarch64-linux-gnu.tar.gz"
+[[Snowball]]
+arch = "x86_64"
+git-tree-sha1 = "a1a81e2aa1df9d1a254ec070c3831b1033564dfe"
+libc = "glibc"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "8695c399deae012fc158d63a11390d8facbda1e76f1b0b047becf1e0120da684"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.x86_64-linux-gnu.tar.gz"
+[[Snowball]]
+arch = "powerpc64le"
+git-tree-sha1 = "79bcf3d68d4b5f7e8222345f022486fda8c32c43"
+libc = "glibc"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "86d6e9a99f96365b0d78a4e8675f645a0092f49992e590f4adde4c9f52a32d65"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.powerpc64le-linux-gnu.tar.gz"
+[[Snowball]]
+arch = "x86_64"
+git-tree-sha1 = "2efc8fb9ab524c6f2031201838d10f84b0cc9cb6"
+os = "macos"
+
+    [[Snowball.download]]
+    sha256 = "fd153061d6334fa0a3b04c8c4da5e186e30d3bd2da176f518b6dcf57e599a4dc"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.x86_64-apple-darwin14.tar.gz"
+[[Snowball]]
+arch = "x86_64"
+git-tree-sha1 = "be724a96da2215c6b1dd04785c48475b16776fe9"
+os = "freebsd"
+
+    [[Snowball.download]]
+    sha256 = "26c5daee8b7d5264009d64a58536beb748e149ea2878b731855a6d59c264d8c1"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Snowball]]
+arch = "i686"
+git-tree-sha1 = "b7534e7d716ffbd4cd39ba334376368e24bc308b"
+libc = "musl"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "da2d97565c7c7a099611c9a63f8e909ffb055af9f23c67657244d0a3937a2cdc"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.i686-linux-musl.tar.gz"
+[[Snowball]]
+arch = "armv7l"
+git-tree-sha1 = "44e37cfa06be8df8d88ee7cec185427394acd680"
+libc = "musl"
+os = "linux"
+
+    [[Snowball.download]]
+    sha256 = "4bd655249a5426dfed4d6b01c9b5b0ad176f610b32b108742530e93c820fa37d"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.armv7l-linux-musleabihf.tar.gz"
+[[Snowball]]
+arch = "x86_64"
+git-tree-sha1 = "15921334b899d0c978c0b7bc0338b1102d86d91c"
+os = "windows"
+
+    [[Snowball.download]]
+    sha256 = "3e70b194bcf540964d0d0c7519820fc48152a1a609f820a8a65a9aed67ec8def"
+    url = "https://github.com/JuliaBinaryWrappers/Snowball_jll.jl/releases/download/Snowball-v2.0.0+0/Snowball.v2.0.0.x86_64-w64-mingw32.tar.gz"
